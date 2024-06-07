@@ -1,1 +1,0 @@
-recursionCall(number -1);
